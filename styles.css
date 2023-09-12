@@ -4,6 +4,7 @@ html{
 
 body{
   padding: 1em;
+  max-width: 650px;
 }
 
 h2{
@@ -11,6 +12,6 @@ h2{
   font-weight: normal;
 }
 
-p{
-  text-align: start;
+.firstP{
+  font-style:italic;
 }
