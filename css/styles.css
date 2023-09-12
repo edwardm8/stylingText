@@ -1,0 +1,27 @@
+html{
+  background-color: #f4e295; 
+}
+
+body{
+  padding: 1em;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+}
+p{
+  text-align: center;
+}
+ol,li{
+  text-align: center;
+}
+h2{
+  border-bottom: solid;
+  font-weight: normal;
+}
+.firstP{
+  font-style:italic;
+}
+main{
+  margin:auto;
+  max-width: 650px;
+}
+
