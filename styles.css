@@ -1,0 +1,16 @@
+html{
+  background-color: #f4e295; 
+}
+
+body{
+  padding: 1em;
+}
+
+h2{
+  border-bottom: solid;
+  font-weight: normal;
+}
+
+p{
+  text-align: start;
+}
